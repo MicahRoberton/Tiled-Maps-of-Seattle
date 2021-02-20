@@ -1,5 +1,7 @@
 # Geog 458 Generating Map Tiles.
 
+This webmap can be accessed at https://micahroberton.github.io/Tiled-Maps-of-Seattle/index.html
+
 ## Tile 1 Screenshot - Modified Basemap
 ![Map Image](img/ModifiedBasemap.png)
 
