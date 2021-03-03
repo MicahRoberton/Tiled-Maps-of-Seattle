@@ -2,7 +2,7 @@
 
 This webmap can be accessed at https://micahroberton.github.io/Tiled-Maps-of-Seattle/index.html
 
-I was able to use QGIS software to upload these basemaps and their data as tiles and then using Leaflet HTML put the interactive maps up on a webserver with Github. 
+I was able to use QGIS software to upload these basemaps and their data as tiles and then used Leaflet HTML to put the interactive maps up on a webserver with Github. 
 
 ## Tile 1 Screenshot - Modified Basemap
 ![Map Image](img/map1.png)
